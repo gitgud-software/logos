@@ -32,4 +32,4 @@ lo/g/os
 * Privilege Checker 
 
 ** ur a faget **
-no u
+* no u
